@@ -1,0 +1,21 @@
+{
+  "name": "HelloWorld contract",
+  "abi": {
+    "methods": [
+      {
+        "name": "main",
+        "offset": 0,
+        "parameters": [],
+        "returntype": "Void",
+        "safe": false
+      }
+    ],
+    "events": []
+  },
+  "features": {},
+  "groups": [],
+  "permissions": [],
+  "supportedstandards": [],
+  "trusts": [],
+  "extra": null
+}
